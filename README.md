@@ -31,6 +31,7 @@ I studied Computer Engineering at [Dumlupinar University](https://dpu.edu.tr/)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
+<!---
 <!--- Github stats --->
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=esmailsarwari&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=esmailsarwari&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
@@ -41,3 +42,4 @@ I studied Computer Engineering at [Dumlupinar University](https://dpu.edu.tr/)
 <!--- Suport Me --->
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/esmailsarwari) 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/esmailsarwari10) 
+--->
